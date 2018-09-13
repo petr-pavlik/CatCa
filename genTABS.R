@@ -1,4 +1,4 @@
-PRECHODNA_TABA <- TABA_MARTIN[1:1135,]
+PRECHODNA_TABA <- TABA
 upovs = list()
 whole_upov = c()
 
